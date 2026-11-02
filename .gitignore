@@ -1,0 +1,7 @@
+   .env
+   .venv/
+   __pycache__/
+   *.pyc
+   salon_data.db
+   chroma_db/
+   .rag_store/
